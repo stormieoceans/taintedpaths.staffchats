@@ -2,7 +2,7 @@ The sole and entire purpose of this repository
 is to view and share these chats with multiple people 
 for educational and beware purposes only. I claim
 **zero** and **no** liability for any harassment sent to 
-theusers shown in these chats, and I do **not** condone
+the users shown in these chats, and I do **not** condone
 any harassments or threats to the named individuals.
 I never will support or condone harassment to these 
 individuals. Do not go after them.
