@@ -6,3 +6,6 @@ users shown in these chats, and I do **not** condone
 any harassments or threats to the named individuals.
 I never will support or condone harassment to these 
 individuals. Do not go after them.
+
+HTML Code exported by 
+https://github.com/Tyrrrz/DiscordChatExporter
